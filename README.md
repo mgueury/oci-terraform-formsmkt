@@ -11,7 +11,7 @@ It will:
 - Bootstrap the machine such that the Forms and local database and installed and started automatically
 
 ## Usage
-Create a ssh certificate to connect to the machine
+Create a ssh certificate to connect to the machine:
 ```
 cd $HOME/.ssh
 ssh-keygen -f ssh-devops.key
@@ -32,7 +32,7 @@ export TF_VAR_ssh_private_key=$(cat ~/data/devops/ssh-devops.key)
 export TF_VAR_region=eu-frankfurt-1
 ```
 
-Start Terraform
+Start Terraform:
 
 ```
 . ./env.sh
