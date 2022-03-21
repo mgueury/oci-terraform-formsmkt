@@ -2,7 +2,8 @@
 Install Oracle Forms with terraform on OCI
 
 ## Description
-The directory contains terraform scripts to install forms on OCI
+The directory contains terraform scripts to install forms on OCI.
+
 It will:
 - Install Forms from the Marketplace
 - Create the needed autoconfig file to bootstrap the machine
