@@ -1,8 +1,8 @@
 # oci-terraform-formsmkt
-Install Oracle Forms with terraform on OCI
+Install Oracle Forms with Terraform on OCI
 
 ## Description
-The directory contains terraform scripts to install forms on OCI.
+The directory contains Terraform scripts to install forms on OCI.
 
 It will:
 - Install Forms from the Marketplace
